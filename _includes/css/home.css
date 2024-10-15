@@ -1,0 +1,91 @@
+.beneficios{
+  display: grid;
+  place-items: center;
+  padding-bottom: 4em;
+
+  ul{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: space-between;
+    padding: 4em 0;
+
+    li{
+      margin: 0;
+      display: grid;
+      place-items: center;
+      gap: 12px;
+
+      h3{
+        font-size: clamp(1.25rem, 2vw, 1.75rem);
+        margin: 0;
+        width: 240px;
+        text-align: center;
+      }
+    }
+  }
+}
+
+.servicios{
+  background-color: var(--gris1);
+  box-shadow: 0 0 0 100vmax var(--gris1);
+  clip-path: inset(0 -100vmax);
+  padding-bottom: 4em;
+
+  .boton{margin: 2em auto;}
+
+  .servicios_lista{
+    width: 100%;
+    font-size: 16px;
+    display: grid;
+    gap: 1em 2em;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 120px), 1fr));
+
+    li{
+      margin: 0;
+      border-bottom: 1px solid var(--gris2);
+      padding-bottom: 8px;
+    }
+  }
+}
+
+.cta{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  padding: 4em 0;
+}
+
+.about{
+  h3{padding-top: 2em;}
+  ul{
+    display: grid;
+    gap: 2em;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+
+    li{
+      margin: 0;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--gris1);
+
+      h4{
+        font-family: var(--fuenteTexto);
+      }
+
+      div{
+        display: flex;
+        gap: 12px;
+        align-items: start;
+        padding-bottom: 4em;
+
+        p{
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}

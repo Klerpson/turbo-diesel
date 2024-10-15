@@ -1,0 +1,40 @@
+.carousel_container {
+  padding: 4em 0;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.carousel {
+  display: flex;
+  -webkit-animation: scroll 50s linear infinite;
+  animation: scroll 50s linear infinite;
+  width: calc(424px * 7);
+  overflow: hidden;
+}
+.carousel .item {
+  width: 424px;
+  padding: 1rem;
+}
+.carousel .item img {
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: var(--radius);
+  aspect-ratio: 4/5;
+}
+@-webkit-keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-424px * 7));
+  }
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-424px * 7));
+  }
+}

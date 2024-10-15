@@ -1,0 +1,15 @@
+footer {
+  background-color: var(--gris2);
+  box-shadow: 0 0 0 100vmax var(--gris2);
+  clip-path: inset(0 -100vmax);
+  display: grid;
+  gap: 2em;
+  place-items: center;
+  padding: 8em 0 4em;
+  text-align: center;
+  color: var(--secundario);
+
+  div{
+    border-bottom: 2px solid var(--titulos);
+  }
+}
