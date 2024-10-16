@@ -92,17 +92,6 @@
   
     {
     
-    "title"    : "Estos productos de Holographic en Colombia están a tu alcance",
-    "url"      : "/productos"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
     "title"    : "Somos Holographic y estamos para asegurar tu mercancía y activos",
     "url"      : "/quienes-somos"
     
@@ -113,6 +102,17 @@
   
   
     {
+    
+    } ,
+
+  
+  
+  
+  
+    {
+    
+    "title"    : "Estos productos de Holographic en Colombia están a tu alcance",
+    "url"      : "/servicios"
     
     } ,
 

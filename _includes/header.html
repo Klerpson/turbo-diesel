@@ -10,13 +10,26 @@
   </div>
   <img src="{{'img/mecanico-turbo-diesel.avif' | relative_url }}" alt="Mecánico trabajando en motor turbo diesel" title="Mecánico de Turbo Diesel">
   
-  {% when "pagina" %}
-  <header class="post_header wrapper">
-    <div class="header_bloque flow">
-      <h1>{{page.h1}}</h1>
-    </div>
-    <img src="{{ page.hero | relative_url }}" alt="{{page.alt}}" width="600" height="340" class="bloque_big bg">
-    {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+{% when "servicio" %}
+<header class="header_servicio wrapper">
+  <h1>{{page.h1}}</h1>
+  <div>
+    <img 
+    src="{{ page.hero | relative_url }}" 
+    srcset="{{ page.hero | relative_url }} 1200w,
+            {{ page.hero_800 | relative_url }} 800w,
+            {{ page.hero_400 | relative_url }} 400w"
+    sizes="(min-width: 1024px) 1280px,
+           (min-width: 640px) 800px,
+           400px"
+    alt="{{ page.alt }}"
+    title="{{ page.img_title }}"
+    width="1280"
+    height="680"
+    loading="eager">
+    <p>{{ page.excerpt }}</p>
+    {% include boton.html %}
+  </div>
 
 {% when "post" %}
 <header class="post_header wrapper">

@@ -3,7 +3,7 @@
   --accion: #2750A8;
   --principal: #77B6EA;
   --secundario: #04245D;
-  --acento: #77b6ea1e;
+  --acento: #77b6ea34;
   --gris1: #E8EEF2;
   --gris2: #C7D3DD;
   --gris3: #596475;
@@ -112,6 +112,7 @@ small {
 img {
   border-style: none;
   max-width: 100%;
+  object-fit: cover;
 }
 
 li {

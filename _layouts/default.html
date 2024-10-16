@@ -2,7 +2,8 @@
 layout: compress
 ---
 {% include head.html %}
-  <body>
+
+<body>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VMWNNRN" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
@@ -18,7 +19,7 @@ layout: compress
     {% include cta.html%}
   </main>
   {% else %}
-    {{ content }}
+  {{ content }}
   {% endif %}
   {% include footer.html %}
   <a href="#" class="boton-whatsapp" id="lead_whatsapp" target="_blank" rel="nofollow noopener noreferrer"
@@ -55,6 +56,31 @@ layout: compress
     });
   </script>
   <script defer src="{{ 'js/app.js' | relative_url }}"></script>
-  
-  </body>
+
+  {% if page.layout == "servicio" %}
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const faqPreguntas = document.querySelectorAll('.faq-pregunta');
+
+      faqPreguntas.forEach(pregunta => {
+        pregunta.addEventListener('click', () => {
+          const respuesta = pregunta.nextElementSibling;
+          const estaActiva = pregunta.classList.contains('active');
+
+          faqPreguntas.forEach(p => {
+            p.classList.remove('active');
+            p.nextElementSibling.classList.remove('active');
+          });
+
+          if (!estaActiva) {
+            pregunta.classList.add('active');
+            respuesta.classList.add('active');
+          }
+        });
+      });
+    });
+  </script>
+  {% endif %}
+</body>
+
 </html>

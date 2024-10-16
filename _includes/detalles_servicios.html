@@ -1,0 +1,14 @@
+<main class="fondo wrapper detalles_servicio">
+    <h2>{{include.title}}</h2>
+    <div>
+      <img src="{{'img/sistema-turbo-diesel.avif' | relative_url }}" alt="">
+        <ul class="lista_servicios">
+          {% for servicio in page.servicios_ofrecidos %}
+          <li>
+            <span class="numero-servicio">{{ forloop.index }}</span>
+            <small class="descripcion-servicio">{{ servicio }}</small>
+          </li>
+        {% endfor %}
+        </ul>
+    </div>
+  </main>

@@ -1,7 +1,7 @@
 baseurl: ''
 url: 'https://revisemos.com'
-name: 'Holographic'
-author: Henando - Holographic
+name: 'Turbo Diesel de Colombia DG'
+author: Henando - T.D.D.G.
 instagram: https://www.instagram.com/holographic.ec/
 facebook: https://web.facebook.com/profile.php?id=61560661795850
 linkedin: https://www.linkedin.com/company/holographic-col/?viewAsMember=true
@@ -28,9 +28,9 @@ compress_html:
     startings: []
 
 collections:
-  productos:
+  servicios:
     output: true
-    permalink: /productos/:path
+    permalink: /servicios/:path
   posts:
     output: true
     permalink: /blog/:slug
