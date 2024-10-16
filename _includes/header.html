@@ -4,11 +4,11 @@
 {% when "default" %}
 <header class="header_home">
   <div>
-    <h1>Lorem ipsum dolor sit amet</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam harum sit ab tempore autem, natus perspiciatis repellendus nesciunt!</p>
+    <h1>{{page.h1}}</h1>
+    <p>{{page.intro}}</p>
     {% include boton.html %}
   </div>
-  <img src="{{'img/mecanico-turbo-diesel.avif' | relative_url }}" alt="Mecánico trabajando en motor turbo diesel" title="Mecánico de Turbo Diesel">
+  <img src="{{page.hero | relative_url }}" alt="{{page.alt}}" title="{{page.img_title}}">
   
 {% when "servicio" %}
 <header class="header_servicio wrapper">
