@@ -52,8 +52,8 @@ document.addEventListener("DOMContentLoaded", function() {
     var whatsappLinks = document.querySelectorAll("a#lead_whatsapp");
     whatsappLinks.forEach(function(link) {
         var message = "Hola! Me gustaría recibir más asesoría sobre esta información: " + encodeURIComponent(currentURL);
-        var mobileLink = "https://wa.me/593968493326?text=" + message;
-        var desktopLink = "https://web.whatsapp.com/send?phone=593968493326&text=" + message;
+        var mobileLink = "https://wa.me/573506329106?text=" + message;
+        var desktopLink = "https://web.whatsapp.com/send?phone=573506329106&text=" + message;
         if (isMobile) {
             link.setAttribute("href", mobileLink);
         } else {
