@@ -375,6 +375,8 @@ blockquote cite::before {
   padding: 4em 0;
 
   li{
+    max-width: 180px;
+    text-align: center;
     margin: 0;
     display: grid;
     place-items: center;
