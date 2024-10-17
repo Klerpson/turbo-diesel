@@ -41,9 +41,9 @@ h1, h2, h3, h4, h5 {
   font-family: var(--fuenteTitulos);
   text-transform: none;
   font-weight: 700;
-  letter-spacing: -0.02em;
   line-height: 1.2;
   margin-bottom: 1em;
+  letter-spacing: -0.012em;
 }
 
 h1 {
