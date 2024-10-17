@@ -14,13 +14,14 @@
 .carousel .item {
   width: 424px;
   padding: 1rem;
+  display: grid;
+  place-items: center;
 }
 .carousel .item img {
-  width: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
+  width: 64px;
+  height: auto;
   border-radius: var(--radius);
-  aspect-ratio: 4/5;
+  aspect-ratio: 1/1;
 }
 @-webkit-keyframes scroll {
   0% {
