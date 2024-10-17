@@ -345,6 +345,7 @@ blockquote cite::before {
   img{
     box-shadow: var(--shadow);
     width: min(100%, 560px);
+    height: auto;
   }
 
   div{

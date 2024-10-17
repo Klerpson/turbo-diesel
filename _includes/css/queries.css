@@ -5,6 +5,10 @@
   .header_home{
     justify-content: space-between;
   }
+
+  .beneficios ul{
+    justify-content: space-between;
+  }
 }
 
 @media screen and (width >= 1024px) {
