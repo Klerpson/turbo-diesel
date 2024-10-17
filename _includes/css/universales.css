@@ -343,7 +343,6 @@ blockquote cite::before {
   }
 
   img{
-    object-fit: cover;
     box-shadow: var(--shadow);
     width: min(100%, 560px);
   }

@@ -61,7 +61,7 @@
 }
 
 .slide-container img {
-  max-width: 384px;
-  height: 100%;
+  max-width: 490px;
+  height: auto;
   object-fit: cover;
 }

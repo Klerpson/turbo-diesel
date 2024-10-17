@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-10-17T10:41:46-05:00</lastmod>
+        <lastmod>2024-10-17T11:05:47-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -36,7 +36,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-10-17T10:41:46-05:00</lastmod>
+        <lastmod>2024-10-17T11:05:47-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -64,7 +64,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-10-17T10:41:46-05:00</lastmod>
+        <lastmod>2024-10-17T11:05:47-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -79,50 +79,50 @@
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-andres-ceballos-servicio-turbo-diesel.avif</image:loc>
+              <image:title>Cliente de mantenimiento en turbo diesel</image:title>
             </image:image>
           
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-javier-rojas-servicio-turbo-diesel.avif</image:loc>
+              <image:title>testimonio de un cliente de turbo diesel en Google maps</image:title>
             </image:image>
           
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-wilson-urrea-servicio-turbo-diesel.avif</image:loc>
+              <image:title>testimonio de Wilson Urrea por mantenimiento, en Google maps</image:title>
             </image:image>
           
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-daniel-perea-servicio-turbo-diesel.avif</image:loc>
+              <image:title>testimonio de un cliente por reparación de un turbo diesel en Google maps</image:title>
             </image:image>
           
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-diana-gonzalez-servicio-turbo-diesel.avif</image:loc>
+              <image:title>testimonio de una cliente de turbo diesel en Google maps</image:title>
             </image:image>
           
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-jen-mds-servicio-turbo-diesel.avif</image:loc>
+              <image:title>testimonio por mantenimiento hecho en turbo diesel gd en Google maps</image:title>
             </image:image>
           
           
           
             <image:image>
-              <image:loc>http://localhost:4000/img/motor-turbo-diesel.avif</image:loc>
-              <image:title>Foto de Motor turbo diesel</image:title>
+              <image:loc>http://localhost:4000/img/testimonio-arley-barrantes-servicio-turbo-diesel.avif</image:loc>
+              <image:title>testimonio de un cliente de turbo diesel GD en Google maps</image:title>
             </image:image>
           
           
@@ -140,7 +140,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-10-17T10:41:46-05:00</lastmod>
+        <lastmod>2024-10-17T11:05:47-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -165,7 +165,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-10-17T10:41:46-05:00</lastmod>
+        <lastmod>2024-10-17T11:05:47-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -193,7 +193,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-10-17T10:41:46-05:00</lastmod>
+        <lastmod>2024-10-17T11:05:47-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
