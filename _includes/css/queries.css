@@ -26,7 +26,7 @@
     left: 0;
     right: 0;
     bottom: 100%;
-    top: 64px;
+    top: 60px;
     width: auto;
     height: auto;
     overflow: auto;
@@ -39,14 +39,14 @@
   .navegacion > a:not(:last-child),
   .navegacion > li,
   .dropdown-content a {
-    padding: 8px;
-    border-radius: var(--radius);
-    border: 3.6px solid var(--secundario);
+    color: var(--accion);
     width: min(100%, 320px);
+    font-size: 1.2rem;
+    font-weight: 900;
   }
 
   .dropdown-content {
-    top: 48px;
+    top: 40px;
   }
 
   nav :checked ~ ul {
