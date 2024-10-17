@@ -300,29 +300,6 @@ blockquote cite::before {
   filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
 }
 
-.bloques{
-  display: grid;
-  gap: 1em;
-  grid-auto-flow: dense;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 600px), 1fr));
-}
-
-.bloques > div{
-  position: relative;
-  padding: 28px;
-  display: grid;
-  gap: 1em;
-  place-content: center;
-  place-items: center;
-  border-radius: var(--radius);
-  
-  .boton {margin: 0;}
-
-  img{
-    object-fit: cover;
-  }
-}
-
 .title{
   text-align: center;
   display: grid;

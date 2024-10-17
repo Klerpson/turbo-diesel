@@ -42,22 +42,14 @@
     <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
 
 {% else %}
-<header class="bloques wrapper">
-  <div class="header_bloque bloque_big">
-    <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
+<header class="dos_columnas wrapper">
+  <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
+  <div class="">
     <div>
       <h1>{{page.h1}}</h1>
       <p>{{page.intro}}</p>
-      {% include boton.html url=site.whatsapp title="Escribe a Holographic" texto="Asesórate gratis" id="lead_whatsapp" %}
+      {% include boton.html %}
     </div>
-  </div>
-  <div class="header_mini_bloque bg">
-    <h4>Accesos rápidos</h4>
-    {% for items in page.enlaces %}
-    {% for item in items %}
-      <a href="{{item[1]}}">› {{item[0]}}</a>
-    {% endfor %}
-    {% endfor %}
   </div>
 {% endcase %}
 </header>
