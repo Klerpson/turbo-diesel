@@ -43,6 +43,16 @@
   text-align: center;
 }
 
+/* PAGINAS DE SERVICIOS */
+.servicio_puntos{
+  border-left: 2px solid var(--acento);
+  flex: 1 0 360px;
+  li{
+    font-size: clamp(1.25rem, 2vw, 1.75rem);
+    color: var(--gris3);
+  }
+}
+
 /* SECCION DE FAQS */
 .faqs {
   margin-bottom: 4em;
