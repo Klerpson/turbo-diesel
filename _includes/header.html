@@ -42,14 +42,11 @@
     <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
 
 {% else %}
-<header class="dos_columnas wrapper">
-  <img src="{{page.hero |relative_url}}" alt="{{page.alt}}">
-  <div class="">
-    <div>
-      <h1>{{page.h1}}</h1>
-      <p>{{page.intro}}</p>
-      {% include boton.html %}
-    </div>
+<header class="header_pages wrapper">
+  <div>
+    <h1>{{page.h1}}</h1>
+    <p>{{page.intro}}</p>
   </div>
+  <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" title="{{page.title}}">
 {% endcase %}
 </header>
