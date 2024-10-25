@@ -73,7 +73,10 @@
 }
 
 .about{
-  h3{padding-top: 2em;}
+  h3{
+    padding-top: 2em;
+    max-width: 720px;
+  }
   ul{
     display: grid;
     gap: 2em;
