@@ -7,7 +7,7 @@ intro: Nuestro laboratorio de turbo alimentadores a tu servicio
 hero: img/laboratorio-diesel-bogota.avif
 alt: Laboratorio Turbo de motores diésel de Colombia
 ---
-## Sobre turbo diesel de Colombia GD
+## Conoce el mejor laboratorio de Colombia sobre turbos de motor diesel y de gasolina
 
 ### Llevamos el rugido de tu motor al siguiente nivel
 
@@ -17,9 +17,9 @@ Con cada reparación o mantenimiento, tratamos a tu motor como si fuera el nuest
 
 ---
 
-## Nuestra historia: Nacidos para reparar bestias diesel
+## Nuestra historia: Nacidos para reparar cualquier turbo en tu motor
 
-La historia de **Turbo Diesel de Colombia GD** comienza en las calles de Bogotá, con un amor por los motores que rugen fuerte.
+La historia de [Turbo Diesel de Colombia GD](/) comienza en las calles de Bogotá, con un amor por los motores que rugen fuerte.
 
 Cristóbal, conocido entre sus clientes como **el "mago de los turbos"**, decidió en el 2007 que era hora de poner su pasión y experiencia al servicio de quienes, como él, sienten el motor como una extensión de sí mismos.
 
@@ -42,7 +42,7 @@ No importa si necesitas un [mantenimiento rutinario]({{'servicios/mantenimiento'
 
 ---
 
-## ¿Dónde nos encuentras?
+## ¿Dónde puedes encontrar el laboratorio de turbos de Turbo Diesel de Colombia GD?
 
 Ven a visitarnos en **Carrera 82a #8C - 45, Bogotá**. También puedes **escribirnos por WhatsApp al [350 632 9106](#){:id="lead_whatsapp" rel="nofollow noopener noreferrer" target="_blank"}**, o llamarnos al **601 397 0149**. Si prefieres agendar una cita por correo, escríbenos a **[ventas@turbodieseldecolombia.com.co](mailto:ventas@turbodieseldecolombia.com.co){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
@@ -50,7 +50,7 @@ Si no sabes cómo llegar, aquí tienes el [mapa](https://maps.app.goo.gl/aDvF3pp
 
 ---
 
-## Conéctate con nosotros
+## Conéctate en el mejor laboratorio de turbos en Colombia
 
 Síguenos en **[Facebook](https://www.facebook.com/profile.php?id=100064895403683){:rel="nofollow noopener noreferrer" target="_blank"}** para estar al tanto de nuestros proyectos, promociones y consejos para mantener tu motor en las mejores condiciones.
 
