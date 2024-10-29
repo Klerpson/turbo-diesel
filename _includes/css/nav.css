@@ -46,7 +46,9 @@ nav {
 }
 
 .dropdown-content a {
-  margin: 0 0 16px 0;
+  display: block;
+  padding: 8px 16px;
+  width: 100%;
 }
 
 .buscador:target {
