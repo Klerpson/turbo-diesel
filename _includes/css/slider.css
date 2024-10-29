@@ -22,11 +22,11 @@
 }
 
 .gallery-slider span:first-child {
-  left: -16px;
+  left: 0;
 }
 
 .gallery-slider span:last-child {
-  right: -16px;
+  right: 0;
 }
 
 .slide-container {
