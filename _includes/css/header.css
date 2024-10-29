@@ -50,6 +50,7 @@
 
   div{
     flex: 1 0 480px;
+    max-width: 100%;
   }
   
   img{

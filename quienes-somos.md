@@ -6,6 +6,14 @@ h1: "Te presentamos nuestro laboratorio: Turbo Diésel de Colombia GD"
 intro: Nuestro laboratorio de turbo alimentadores a tu servicio
 hero: img/laboratorio-diesel-bogota.avif
 alt: Laboratorio Turbo de motores diésel de Colombia
+fotos:
+  - Cliente de mantenimiento en turbo diesel: img/testimonio-andres-ceballos-servicio-turbo-diesel.avif
+  - testimonio de un cliente de turbo diesel en Google maps: img/testimonio-javier-rojas-servicio-turbo-diesel.avif
+  - testimonio de Wilson Urrea por mantenimiento, en Google maps: img/testimonio-wilson-urrea-servicio-turbo-diesel.avif
+  - testimonio de un cliente por reparación de un turbo diesel en Google maps: img/testimonio-daniel-perea-servicio-turbo-diesel.avif
+  - testimonio de una cliente de turbo diesel en Google maps: img/testimonio-diana-gonzalez-servicio-turbo-diesel.avif
+  - testimonio por mantenimiento hecho en turbo diesel gd en Google maps: img/testimonio-jen-mds-servicio-turbo-diesel.avif
+  - testimonio de un cliente de turbo diesel GD en Google maps: img/testimonio-arley-barrantes-servicio-turbo-diesel.avif
 ---
 ## Conoce el mejor laboratorio de Colombia sobre turbos de motor diesel y de gasolina
 
@@ -25,7 +33,8 @@ Cristóbal, conocido entre sus clientes como **el "mago de los turbos"**, decidi
 
 >Desde nuestros inicios, hemos crecido **gracias a la confianza de nuestros clientes** y a la calidad de nuestro trabajo. Aquí no solo se trata de reparar o hacer mantenimiento. Se trata de **revivir y potenciar** cada motor diesel que entra a nuestro taller.
 
----
+{% include slider.html %}
+[Deja tu opinión](https://g.page/r/CevwLkimQtMVEAI/review "Opiniones de turbo diesel de colombia GD"){:rel="nofollow noopener noreferrer" target="_blank" class="boton boton_2" style="float: right; margin-bottom: 2em;"}
 
 ## Nuestro compromiso con cada cliente de Turbo Diesel de Colombia GD
 
