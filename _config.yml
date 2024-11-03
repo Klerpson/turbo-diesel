@@ -42,7 +42,7 @@ plugins:
 # Configuración opcional para personalizar el comportamiento del plugin
 redirect_from:
   # Habilita la generación de redirecciones alternativas (no es necesario en la mayoría de los casos)
-  # enabled: true
+  enabled: true
 
   # Ignora las redirecciones especificadas (útil si tienes conflictos)
   # ignore:
