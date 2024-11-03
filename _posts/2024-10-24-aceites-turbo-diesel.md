@@ -161,9 +161,9 @@ En ***Turbo Diésel Colombia GD somos especialistas en sistemas turbo diésel***
 
 ### 🛠️ Nuestros Servicios Especializados
 
-- → [Diagnóstico computarizado de turbos]({{'diagnostico'|relative_url}} "Diagnóstico turbos")
-- → [Mantenimiento preventivo]({{'matenimiento'|relative_url}} "Diagnóstico turbos")
-- → [Reparación de turbos]({{'reparacion'|relative_url}} "Diagnóstico turbos") de geometría variable
+- → [Diagnóstico computarizado de turbos]({{'servicios/diagnostico'|relative_url}} "Diagnóstico turbos")
+- → [Mantenimiento preventivo]({{'servicios/matenimiento'|relative_url}} "Diagnóstico turbos")
+- → [Reparación de turbos]({{'servicios/reparacion'|relative_url}} "Diagnóstico turbos") de geometría variable
 - → Limpieza y calibración de inyectores
 - → **Análisis de aceite** en laboratorio
 {:class="fondo"}
