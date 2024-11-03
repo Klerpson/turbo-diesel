@@ -7,20 +7,20 @@ intro: El blog del turbo para motores diésel y de gasolina, te ofrece noticias 
 hero: img/blog/blog-turbo-diesel.avif
 alt: Turbo para motores diésel con el logo de la empresa
 ---
-<main class="entradas wrapper">
+<main class="beneficios wrapper">
   <h2>El blog de Turbo Diésel de Colombia DG te mantiene en funcionamiento</h2>
   <p>Son más de <strong>14 años de experiencia reparando y cuidando turbos</strong> de todo tipo de motores y máquinas. Seguro, tenemos mucho que enseñarte. Léelo en este blog:</p>
-  <h3>Haz clic en los siguientes artículos del blog de Holographic ⏬</h3>
-  <div class="blog_gallery">
+  <ul class="posts">
     {% for post in site.posts %}
-    <article class="article">
-      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="280" height="180">
-      <div class="flow">
-        <a href="{{post.url|relative_url}}" title="{{post.title}}"><h4>{{post.h1}}</h4></a>
-        <p>{{post.intro}}</p>
+    <li class="posts__blog">
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" loading="lazy" width="320" height="180">
+      <div>
         <small>{{post.date | date: "%d-%m-%Y"}}</small>
+        <h4>{{post.h1}}</h4>
+        <p class="intro">{{post.description}}</p>
+        <a href="{{post.url|relative_url}}" title="{{post.title}}" class="link boton boton_2">Leer más</a>
       </div>
-    </article>
+    </li>
     {% endfor %}
-  </div>
+  </ul>
 </main>

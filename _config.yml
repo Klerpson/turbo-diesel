@@ -32,7 +32,7 @@ collections:
     permalink: /servicios/:path
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blog/:categories/:slug
 
 
 # Asegúrate de que tienes esta línea para habilitar los plugins en GitHub Pages

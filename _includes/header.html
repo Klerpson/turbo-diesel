@@ -33,11 +33,11 @@
 
 {% when "post" %}
 <header class="post_header wrapper">
-  <div class="bg flow">
+  <div class="flow">
     <h1>{{page.h1}}</h1>
     <p>{{page.intro}}</p>
-    <small>Autor: {{page.autor}} | Temática: {{page.category}}</small>
-    <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a>/<a href="{{'blog' | relative_url}}" title="Blog Holographic">Blog</a>/{{page.title}}</small>
+    <small>Autor: {{page.autor}} | Temática: <a href="/blog{{page.category|relative_url }}" title="Categoría del blog de turbo diésel: {{page.category}}">{{page.category|capitalize}}</a></small>
+    <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a> / <a href="{{'blog' | relative_url}}" title="Blog Turbo Diésel de Colombia GD">Blog</a> / {{page.title}}</small>
   </div>
     <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
 
@@ -45,7 +45,9 @@
 <header class="header_pages wrapper">
   <div>
     <h1>{{page.h1}}</h1>
+    {% if page.intro %}
     <p>{{page.intro}}</p>
+    {% endif %}
   </div>
   <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" title="{{page.title}}">
 {% endcase %}
