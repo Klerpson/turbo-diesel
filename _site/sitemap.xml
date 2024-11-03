@@ -14,21 +14,15 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
-          <image:image>
-            <image:loc>http://localhost:4000/img/blog.jpg</image:loc>
-            <image:title>Blog de Holographic: expertos en seguridad y trazabilidad de envíos</image:title>
-            <image:caption>Imagen del logo del blog de Holographic</image:caption>
-          </image:image>
-        
         
           <image:image>
-            <image:loc>http://localhost:4000/img/blog.webp</image:loc>
-            <image:title>Blog de Holographic: expertos en seguridad y trazabilidad de envíos</image:title>
-            <image:caption>Imagen del logo del blog de Holographic</image:caption>
+            <image:loc>http://localhost:4000/img/blog/blog-turbo-diesel.avif</image:loc>
+            <image:title>Blog Turbo Diésel - La Biblia del Rugido y la Potencia</image:title>
+            <image:caption>Turbo para motores diésel con el logo de la empresa</image:caption>
           </image:image>
         
         
@@ -39,7 +33,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -67,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -143,7 +137,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -168,7 +162,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -241,7 +235,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -272,7 +266,7 @@
     
       <url>
         <loc>http://localhost:4000/reconstruccion-turbos</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -285,7 +279,7 @@
     
       <url>
         <loc>http://localhost:4000/reparacion</loc>
-        <lastmod>2024-11-02T21:32:06-05:00</lastmod>
+        <lastmod>2024-11-02T21:42:54-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
