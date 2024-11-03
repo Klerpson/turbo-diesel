@@ -190,6 +190,36 @@ blockquote cite::before {
   }
 }
 
+table {
+  width: 100%;
+  margin: 2em 0 4em;
+  box-shadow: var(--shadow);
+}
+
+table tr {
+  border-bottom: 2px dotted var(--gris1);
+  display: flex;
+  padding: 1.2em 0;
+  flex-wrap: wrap;
+  gap: 1em;
+  width: 100%;
+}
+
+table th:nth-child(even),
+table tr:nth-child(even) {
+  background-color: var(--gris1);
+}
+
+table th {
+  font-weight: 900;
+}
+
+table td,
+table th {
+  padding: 8px;
+  flex: 1 0 200px;
+}
+
 .wrapper {
   padding: 8em 0 0;
   width: min(calc(100% - 2rem), 1200px);

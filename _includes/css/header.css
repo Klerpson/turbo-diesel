@@ -57,3 +57,22 @@
     width: min(100%, 480px);
   }
 }
+
+
+.post_header{
+  padding-top: 8em;
+
+  img{
+    box-shadow: var(--shadow);
+  }
+}
+
+.post_header > div{
+  display: grid;
+  place-items: center;
+  text-align: center;
+
+  .post_header--cat{
+    font-weight: 700;
+  }
+}

@@ -8,7 +8,7 @@
     <p>{{page.intro}}</p>
     {% include boton.html %}
   </div>
-  <img src="{{page.hero | relative_url }}" alt="{{page.alt}}" title="{{page.img_title}}">
+  <img src="{{page.hero | relative_url }}" alt="{{page.alt}}" title="{{page.img_title}}" loading="eager">
   
 {% when "servicio" %}
 <header class="header_servicio wrapper">
@@ -36,10 +36,16 @@
   <div class="flow">
     <h1>{{page.h1}}</h1>
     <p>{{page.intro}}</p>
-    <small>Autor: {{page.autor}} | Temática: <a href="/blog{{page.category|relative_url }}" title="Categoría del blog de turbo diésel: {{page.category}}">{{page.category|capitalize}}</a></small>
+    <i>Por {{page.autor}}, experto de Turbo Diésel de Colombia GD | Temática: <a href="/blog{{page.category|relative_url }}" title="Categoría del blog de turbo diésel: {{page.category}}" class="post_header--cat">{{page.category|capitalize}}</a></i>
+    {% capture words %}
+    {{ content | number_of_words | minus: 180 }}
+    {% endcapture %}
+    {% unless words contains '-' %}
+    {% endunless %}
     <small><b>📍Estás aquí: </b><a href="/" title="Página de inicio">Inicio</a> / <a href="{{'blog' | relative_url}}" title="Blog Turbo Diésel de Colombia GD">Blog</a> / {{page.title}}</small>
+    <i>{{ words | plus: 150 | divided_by: 150 | append: ' minutos para leerlo' }}</i>
   </div>
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="600" height="340">
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}" width="1280" height="680" loading="eager">
 
 {% else %}
 <header class="header_pages wrapper">
@@ -49,6 +55,6 @@
     <p>{{page.intro}}</p>
     {% endif %}
   </div>
-  <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" title="{{page.title}}">
+  <img src="{{page.hero |relative_url}}" alt="{{page.alt}}" title="{{page.title}}" loading="eager">
 {% endcase %}
 </header>

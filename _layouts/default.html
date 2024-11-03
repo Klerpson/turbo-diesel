@@ -13,10 +13,8 @@ layout: compress
   {% if page.layout == "post" %}
   <main class="wrapper flow">
     {{ content }}
-    <div class="post-social wrapper">
-      {% include share.html %}
-    </div>
-    {% include cta.html%}
+    {% include carousel.html %}
+    {% include share.html%}
   </main>
   {% else %}
   {{ content }}
