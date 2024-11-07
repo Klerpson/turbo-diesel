@@ -1,109 +1,20 @@
-stickers:
-  - img: img/holograma-adhesivo-personalizado.webp
-    alt: Servicio personalizado para empresas
-    nombre: Etiquetas Platinum
-    p: Etiquetas desarrolladas con un diseño holográfico exclusivo
-    url: "productos/etiquetas-platinum"
-    title: Holograma personalizado
-  - img: img/cinta-seguridad.webp
-    alt: Cintad de seguridad para mercancía
-    nombre: Cintas de Seguridad
-    p: No pierdas más mercancía con nuestras cintas de seguridad
-    url: "productos/cintas-de-seguridad"
-    title: Cinta Seguridad
-  - img: img/holograma-premium.webp
-    alt: Adhesivo holográfico de seguridad
-    nombre: Etiquetas premium
-    p: Solución de etiquetas adhesivas premium con más tecnología
-    url: "productos/etiquetas-premium"
-    title: Holograma premium
-  - img: img/etiquetas-void.webp
-    alt: Sticker VOID de seguridad
-    nombre: Etiqueta Adhesiva VOID
-    p: Adhesivos de seguridad que marca una evidencia de despegado
-    url: "productos/etiquetas-void/"
-    title: Etiqueta VOID
-  - img: img/adhesivo-con-evidencia.webp
-    alt: Etiqueta de seguridad con evidencia de despegue
-    nombre: Adhesivos con evidencia
-    p: Etiquetas de seguridad que dejan una evidencia de apertura
-    url: "productos/stickers-holograficos"
-    title: Etiqueta seguridad evidencia
-
-hologramas:
-  - img: img/etiqueta-botellas-licor.avif
-    alt: Estampilla de seguridad para licores
-    nombre: Estampillas de licores
-    p: Protege tus botellas de licor de la falsificación
-    url: "productos/estampillas-para-licores"
-    title: Estampillas licores
-  - img: img/servicio-premium.webp
-    alt: Servicio de stickers holográficos platinum
-    nombre: Hologramas vehiculares
-    p: Cumple con las normas de revisión vehicular
-    url: "productos/etiquetas-seguridad-vehicular"
-    title: Etiqueta de seguridad para vehículos
-  - img: img/trazabilidad-codigo-de-barras.webp
-    alt: Etiqueta de trazabilidad interna
-    nombre: Etiquetas de trazabilidad 
-    p: Optimiza el control de tu inventario
-    url: "blog/trazabilidad-interna"
-    title: Trazabilidad interna de activos
-  - img: img/sello-trazabilidad.webp
-    alt: Marcación activos
-    nombre: Marcación de activos fijos
-    p: Protege tus activos con etiquetas de evidencia
-    url: "blog/marcacion-activos-fijos"
-    title: Etiquetas para activos fijos
-  - img: img/nosotros/foto-de-stiker-holografico-14.webp
-    alt: Sticker para garantías
-    nombre: Etiquetas de garantía
-    p: Etiquetas VOID que protegen tu inversión
-    url: "blog/etiquetas-para-garantias"
-    title: Adhesivos para garantías
-
-impresoras:
-  - img: img/etiquetas-blancas.webp
-    alt: Etiquetas adhesivas para impresión térmica
-    nombre: Etiquetas de papel grandes
-    p: Etiquetas de papel grandes para impresión térmica
-    url: "productos/etiquetas-de-papel"
-    title: Etiquetas de papel para impresora térmica
-  - img: img/adhesivo-codigo-de-barras.webp
-    alt: Etiquetas para códigos de barra
-    nombre: Etiquetas de papel plateado
-    p: Etiquetas de impresión térmica y de transferencia
-    url: "productos/etiquetas-de-papel"
-    title: Etiquetas de papel para impresora térmica
-  - img: img/codigo-barras-etiqueta.webp
-    alt: Etiqueta para códigos de barras
-    nombre: Etiquetas para códigos
-    p: Etiquetas de papel con códigos de barras para marcación
-    url: "productos/etiquetas-de-papel"
-    title: Etiquetas de papel para impresora térmica
-  - img: img/nosotros/foto-de-stiker-holografico-11.webp
-    alt: Etiquetas con evidencia de despegue
-    nombre: Etiqueta con evidencia
-    p: Imprime y marca tus activos con etiquetas con evidencia de despegue
-    url: "productos/etiquetas-de-papel"
-    title: Evident Tamper
-
-impresiones:
-  - img: img/rollos-papel-void.avif
-    alt: Etiquetas adhesivas para impresión térmica
-    nombre: Rollos de Papel VOID
-    p: 🧾 Ahorra costos en la impresión de etiquetas
-    url: "productos/etiquetas-de-papel"
-    title: Etiquetas de papel para impresora térmica
-  - img: img/impresora-de-transferencia.webp
-    alt: Impresora térmica
-    nombre: Impresoras térmicas
-    p: 🖨️ Distribuimos impresoras de etiquetas
-    url: "productos/impresoras-termicas"
-    title: Mantenimiento impresoras de etiquetas
-  - img: img/lector-de-codigo-de-barras-inhalambrico.webp
-    alt: Lector de códigos de barras
-    nombre: Consigue tus lectores
-    p: ℹ️ Pistolas para leer códigos de barras
-    url: "productos/lectores-codigos-de-barras"
-    title: Pistola para códigos de barras
+- pregunta: ¿Trabajan con motores diésel?
+  respuesta: Somos un laboratorio especializado en la instalación, mantenimiento y reparación de turbos, tanto para motores como para máquinas industriales. Lo que necesitas para tu motor diésel lo puedes encontrar con vecinos que sí se dedican a ese servicio en particular. Escríbenos para recomendarte alguno
+- pregunta: ¿También trabajan con motores a gasolina?
+  respuesta: Por supuesto. Ahora la tecnología también nos permite potenciar los motores a gasolina con turbo.
+- pregunta: ¿Atienden empresas del gremio petrolero?
+  respuesta: Claro que sí. Tenemos la capacidad de adaptarnos a sus necesidades técnicas, contables, legales, etc. Escríbenos para acordar las condiciones y resolver sus necesidades de mantener al día los turbos.
+- pregunta: Lo que más me preocupa es la garantía. ¿Qué garantías ofrecen?
+  respuesta: Te contaré una historia. Para el mes de agosto de 2024 un asociado del laboratorio, que es mecánico, nos envió un turbo que tenía un sonido extraño. Lo revisamos. Hicimos el mantenimiento. Cuando comprobamos que todo estaba trabajando bien, lo regresamos. <strong>Al siguiente día nos llamó porque el turbo sonaba como una pitadora</strong>. Como ya estaba instalado, le pedimos que le dijera al cliente que trajera su camioneta. Al hacer la revisión, notamos que uno de los tornillos del motor no se había ajustado de la manera correcta. No era problema del turbo. Era del mecánico. Así que hicimos el ajuste del tornillo y todo funcionó perfecto. ¿Cuánto pagó el cliente? NADA. ¿Y el mecánico? Muy agradecido por ayudarle y por haberle enseñado lo que debe tener en cuenta con los motores y el turbo. Y ahora tenemos un cliente agradecido y feliz con nuestro servicio. Sobre esto trata nuestras garantías, que siempre estés feliz con nuestro resultado. Que nos recomiendes a tus conocidos para instalar o revisar su turbo. <strong>Nuestro servicio de garantías es nuestro mayor pilar de satisfacción al cliente</strong>.
+- pregunta: ¿Hacen cotizaciones de los servicios para el turbo?
+  respuesta: Sí. En tan solo media hora tendremos tu cotización lista para que te decidas a aprovechar el mejor servicio de instalación o mantenimiento para tu turbo.
+- pregunta: ¿Cuánto tiempo tarda un servicio?
+  respuesta: Generalmente, un servicio sencillo, como un diagnóstico, un mantenimiento de un turbo que ya viene desarmado, o algún procedimiento sencillo, <strong>toma de 30 minutos a 4 horas</strong>. Y cuando el trabajo es muy grande, normalmente nos toma <strong>de 4 a 48 horas</strong>.
+- pregunta: Si mi turbo se estalló o se rompió, ¿se puede reconstruir?
+  respuesta: En la mayoría de los casos, lo mejor es comprar uno nuevo. Es nuestra recomendación después de ver tantos turbos dañados desde el 2007.
+- pregunta: ¿Hacen rebajas o descuentos?
+  respuesta: Claro que sí. Ofrecemos los descuentos para clientes que nos traen grandes cantidades de máquinas y vehículos para instalar o reparar sus turbos. Si no es así, estamos seguros que por la calidad del servicio, la tecnología que utilizamos, los respuestos originales nuevos(no reparados, ni lavados, ni reconstruídos), y por el nivel de garantía que ofrecemos, nuestro precio es de los mejores del mercado respecto al valor que recibes de nuestra parte.
+- pregunta: Si me hicieron el mantenimiento, y después de pinchar la llanta el turbo falló, ¿tiene garantía?
+  respuesta: La llanta sí. El turbo no. No tiene nada que ver... jajajaja. Es gracioso, pero suele suceder. Tienes la absoluta confianza que siempre que tenga que ver con tu motor, nosotros respondemos.
+- pregunta: ¿Ofrecen facilidades de pago para flotas de vehículos o máquinas de empresas que utilizan turbo?
+  respuesta: Por supuesto. Escríbenos y solicita la cotización de tu servicio.
