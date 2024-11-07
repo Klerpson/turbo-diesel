@@ -13,54 +13,47 @@ alt: Imagen de logo de Turbo Diésel de Colombia GD
 
 ![Imagen de Taller](/api/placeholder/800/400)
 
-## La Historia que Cambió Nuestro Taller
+## La Historia que Cambió Nuestro Laboratorio de Turbos
 
 Era un jueves por la noche cuando recibí una llamada de emergencia. Carlos, un transportador de carga, estaba varado en la vía Bogotá-Medellín. Su camión, que llevaba productos perecederos, había perdido potencia completamente. El turbo había fallado.
 
-No lo pensé dos veces. Tomé mi caja de herramientas y conduje dos horas hasta encontrarlo. Trabajamos bajo la luz de las linternas, en medio de la noche, pero conseguimos que ese camión llegara a su destino.
+No lo pensé dos veces. Tomé mi caja de herramientas y conduje dos horas hasta encontrarlo. Trabajamos bajo la luz de las linternas, en medio de la noche, pero **conseguimos revivir su turbo y que ese camión llegara a su destino**.
 
 Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo se quedará sin ayuda**.
 
-## ¿Por Qué La Gente Confía en Nosotros?
+### ¿Por Qué Nuestros Clientes Confían en Nosotros?
 
-> "Llegué desesperado porque mi Mazda BT-50 no pasaba de 60 km/h en la autopista. Tres talleres me habían dicho que necesitaba un turbo nuevo. El equipo de TurboDiesel Colombia detectó que solo era un sensor y me ahorraron millones." 
+> "Llegué desesperado porque **mi Mazda BT-50 no pasaba de 60 km/h** en la autopista. Tres talleres me habían dicho que necesitaba un turbo nuevo. El equipo de Turbo Diésel de Colombia GD detectó que solo era un sensor y me ahorraron millones." 
 > *- Sergio Hernando Parra, cliente desde 2019*
 
-### Nuestro Compromiso Contigo
+### Nuestro Compromiso Contigo en Turbo Diésel de Colombia GD es este
 
-* **Diagnóstico Honesto**: Si no está dañado, no lo cambiamos
-* **Servicio 24/7**: Porque las emergencias no tienen horario
-* **Garantía Real**: 12 meses o 50,000 km, lo que ocurra primero
-* **Repuestos Originales**: Trabajamos con las mejores marcas
+* • **Diagnóstico Honesto**: Si no está dañado, no lo cambiamos
+* • **Servicio 24/7**: Porque las emergencias no tienen horario
+* • **Garantía Real**: 12 meses o 50,000 km, lo que ocurra primero
+* • **Repuestos Originales**: Trabajamos con las mejores marcas
 
 ## Estamos a Una Llamada de Distancia
 
-### 📞 Línea de Emergencias:
-**{{site.telefono}}**
-*Disponible para emergencias*
-[Llámanos](tel:{{site.telefono}}){:class="boton boton_2"}
+📞 Nuestra línea de emergencias: [Llámanos al **{{site.telefono}}**](tel:{{site.telefono}})
 
-### 📱 WhatsApp:
-**{{site.whatsapp}}**
+📱 WhatsApp de Turbo Diésel de Colombia GD: [Escríbenos al **{{site.whatsapp}}**](#){:id="lead_whatsapp" rel="nofollow noopener noreferrer" target="_blank"}  
 *Respondemos con prontitud*
-[Escríbenos al WhatsApp](#){:class="boton boton_2" id="lead_whatsapp"}
 
-### 📧 Correo Electrónico:
-**{{site.email}}**
-*Para cotizaciones y agenda de mantenimientos*
-[Escríbenos al email](mailto:{{site.email}}){:class="boton boton_2"}
+📧 Nuestro email: [Envíanos tus consultas, PQRs y demás a **{{site.email}}**](mailto:{{site.email}})  
+*Para cotizaciones y agenda de mantenimientos*  
 
 ## 🏠 Visítanos en Nuestro Taller
 
-**Sede Principal:**
-{{site.direccion}}, Colombia
+**Sede Principal:** {{site.direccion}}, Colombia
 
 **Horario de Atención:**
-- Lunes a Viernes: 8:00 AM - 6:00 PM
-- Sábados: 8:00 AM - 2:00 PM
-- Domingos: Cerrado
+- • Lunes a Viernes: 8:00 AM - 6:00 PM
+- • Sábados: 8:00 AM - 2:00 PM
+- • Domingos: Cerrado
 
-### 🚗 Cómo Llegar
+### 🚗 Cómo Llegar a Nuestro Laboratorio
+
 1. Toma la Avenida XXXXX dirección norte
 2. En el semáforo de XXXXX, gira a la derecha
 3. Verás nuestro letrero azul a mano izquierda
@@ -69,6 +62,7 @@ Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo 
 ## ¿Tienes una Emergencia?
 
 Si tu vehículo presenta cualquiera de estos síntomas:
+
 - ✓ Pérdida súbita de potencia
 - ✓ Humo excesivo
 - ✓ Ruidos anormales en el turbo
@@ -84,18 +78,18 @@ Llámanos inmediatamente al **{{site.whatsapp}}**. Podemos evitar un daño mayor
 
 *De izquierda a derecha: Juan (20 años de experiencia), Pedro (Especialista en Common Rail), María (Diagnóstico Computarizado), Carlos (Reparación de Turbos)*
 
-## ¿Sabías Que...?
+### ¿Sabías Que...?
 
 **Atendemos más de 200 turbos al mes**, y el 92% de nuestros clientes nos recomiendan a sus amigos y familiares. ¿Por qué? Porque tratamos cada vehículo como si fuera nuestro.
 
-## Siguientes Pasos
+#### Siguientes Pasos
 
 1. **Llámanos o escríbenos** por WhatsApp
 2. **Describe los síntomas** que presenta tu vehículo
 3. **Agenda tu cita** o solicita nuestra asistencia de emergencia
 4. **Visítanos** y deja tu vehículo en manos expertas
 
-### 🌟 Promoción Especial
+#### 🌟 Promoción Especial
 
 *Menciona que nos encontraste por internet y obtén un diagnóstico computarizado gratuito en tu primera visita.*
 
@@ -114,7 +108,6 @@ Llámanos inmediatamente al **{{site.whatsapp}}**. Podemos evitar un daño mayor
 
 No somos solo otro taller. Somos el equipo que estará ahí cuando más lo necesites. Porque entendemos que detrás de cada vehículo hay una familia, un negocio, una historia.
 
-**¿Listo para experimentar un servicio diferente?**
-Contáctanos ahora y descubre por qué somos los expertos en turbos más confiables de Colombia.
+**¿Listo para experimentar un servicio diferente?** Contáctanos ahora y descubre por qué somos los expertos en turbos más confiables de Colombia.
 
 *"Cuidamos tu turbo como si fuera nuestro"*
