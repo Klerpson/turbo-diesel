@@ -1,7 +1,7 @@
 <section class="faqs wrapper">
   <h2>{{include.title}}</h2>
   <div class="faqs-lista">
-    {% for faq in page.faqs %}
+    {% for faq in site.data.faqs %}
     <div class="faq-item">
       <h3 class="faq-pregunta">
         <span class="faq-numero">{{ forloop.index }}</span>

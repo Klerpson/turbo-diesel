@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -33,7 +33,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -55,7 +55,7 @@
     
       <url>
         <loc>http://localhost:4000/blog/guias</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -74,7 +74,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -150,7 +150,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -175,7 +175,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -248,7 +248,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -279,7 +279,7 @@
     
       <url>
         <loc>http://localhost:4000/reconstruccion-turbos</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -292,7 +292,7 @@
     
       <url>
         <loc>http://localhost:4000/reparacion</loc>
-        <lastmod>2024-11-07T07:14:05-05:00</lastmod>
+        <lastmod>2024-11-07T08:35:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
