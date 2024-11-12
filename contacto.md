@@ -48,16 +48,15 @@ Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo 
 **Sede Principal:** {{site.direccion}}, Colombia
 
 **Horario de Atención:**
-- • Lunes a Viernes: 8:00 AM - 6:00 PM
-- • Sábados: 8:00 AM - 2:00 PM
-- • Domingos: Cerrado
+- • Lunes a Viernes: 7:30 AM - 1:00 PM | 2:00 - 5:30 PM
+- • Sábados: 8:00 AM - 12:00 M
+- • Domingos y Festivos: Cerrado
 
 ### 🚗 Cómo Llegar a Nuestro Laboratorio
 
-1. Toma la Avenida XXXXX dirección norte
-2. En el semáforo de XXXXX, gira a la derecha
-3. Verás nuestro letrero azul a mano izquierda
-4. Amplio parqueadero disponible
+Sigue las instrucciones haciendo clic en el mapa:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15906.814026576758!2d-74.1471986!3d4.6468769!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9c3fdf596cb7%3A0x15d342a6482ef0eb!2sTurbo%20Di%C3%A9sel%20De%20Colombia%20GD%20SAS!5e0!3m2!1ses-419!2sco!4v1731370696452!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## ¿Tienes una Emergencia?
 
