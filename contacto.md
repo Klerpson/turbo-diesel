@@ -69,7 +69,7 @@ Si tu vehículo presenta cualquiera de estos síntomas:
 
 **¡NO SIGAS CONDUCIENDO!** 
 
-Llámanos inmediatamente al **{{site.whatsapp}}**. Podemos evitar un daño mayor.
+Llámanos inmediatamente al **{{site.telefono}}**. Podemos evitar un daño mayor.
 
 ## Nuestro Equipo Te Está Esperando
 
@@ -87,10 +87,6 @@ Llámanos inmediatamente al **{{site.whatsapp}}**. Podemos evitar un daño mayor
 2. **Describe los síntomas** que presenta tu vehículo
 3. **Agenda tu cita** o solicita nuestra asistencia de emergencia
 4. **Visítanos** y deja tu vehículo en manos expertas
-
-#### 🌟 Promoción Especial
-
-*Menciona que nos encontraste por internet y obtén un diagnóstico computarizado gratuito en tu primera visita.*
 
 ## Síguenos en Redes Sociales
 
