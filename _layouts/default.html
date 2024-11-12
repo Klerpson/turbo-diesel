@@ -50,7 +50,7 @@ layout: compress
   </script>
   <script defer src="{{ 'js/app.js' | relative_url }}"></script>
 
-  {% if page.layout == "servicio" %}
+  {% if page.layout == "servicio" or page.layout = "pagina" %}
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       const faqPreguntas = document.querySelectorAll('.faq-pregunta');

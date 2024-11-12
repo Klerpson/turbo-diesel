@@ -9,7 +9,7 @@ alt: Imagen de logo de Turbo Diésel de Colombia GD
 ---
 ## Tu Turbo Está en Buenas Manos
 
-*¿Sabes qué es lo más gratificante de mi trabajo? El momento en que un cliente regresa al taller, me da un apretón de manos y dice "Daniel, el motor suena como nuevo".*
+*¿Sabes qué es lo más gratificante de mi trabajo? El momento en que un cliente regresa al taller, me da un apretón de manos y dice "Cristobal, el motor suena como nuevo".*
 
 ![Imagen de Taller](/api/placeholder/800/400)
 
@@ -29,8 +29,8 @@ Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo 
 ### Nuestro Compromiso Contigo en Turbo Diésel de Colombia GD es este
 
 * • **Diagnóstico Honesto**: Si no está dañado, no lo cambiamos
-* • **Servicio 24/7**: Porque las emergencias no tienen horario
-* • **Garantía Real**: 12 meses o 50,000 km, lo que ocurra primero
+* • **Servicio 5/8**: Agenda tu cita en horarios de oficina
+* • **Garantía Real**: 3 meses por fallas verificadas en el laboratorio
 * • **Repuestos Originales**: Trabajamos con las mejores marcas
 
 ## Estamos a Una Llamada de Distancia
@@ -48,16 +48,15 @@ Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo 
 **Sede Principal:** {{site.direccion}}, Colombia
 
 **Horario de Atención:**
-- • Lunes a Viernes: 8:00 AM - 6:00 PM
-- • Sábados: 8:00 AM - 2:00 PM
-- • Domingos: Cerrado
+- • Lunes a Viernes: 7:30 AM - 1:00 PM | 2:00 - 5:30 PM
+- • Sábados: 8:00 AM - 12:00 M
+- • Domingos y Festivos: Cerrado
 
 ### 🚗 Cómo Llegar a Nuestro Laboratorio
 
-1. Toma la Avenida XXXXX dirección norte
-2. En el semáforo de XXXXX, gira a la derecha
-3. Verás nuestro letrero azul a mano izquierda
-4. Amplio parqueadero disponible
+Sigue las instrucciones haciendo clic en el mapa:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15906.814026576758!2d-74.1471986!3d4.6468769!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9c3fdf596cb7%3A0x15d342a6482ef0eb!2sTurbo%20Di%C3%A9sel%20De%20Colombia%20GD%20SAS!5e0!3m2!1ses-419!2sco!4v1731370696452!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## ¿Tienes una Emergencia?
 
@@ -70,7 +69,7 @@ Si tu vehículo presenta cualquiera de estos síntomas:
 
 **¡NO SIGAS CONDUCIENDO!** 
 
-Llámanos inmediatamente al **{{site.whatsapp}}**. Podemos evitar un daño mayor.
+Llámanos inmediatamente al **{{site.telefono}}**. Podemos evitar un daño mayor.
 
 ## Nuestro Equipo Te Está Esperando
 
@@ -88,10 +87,6 @@ Llámanos inmediatamente al **{{site.whatsapp}}**. Podemos evitar un daño mayor
 2. **Describe los síntomas** que presenta tu vehículo
 3. **Agenda tu cita** o solicita nuestra asistencia de emergencia
 4. **Visítanos** y deja tu vehículo en manos expertas
-
-#### 🌟 Promoción Especial
-
-*Menciona que nos encontraste por internet y obtén un diagnóstico computarizado gratuito en tu primera visita.*
 
 ## Síguenos en Redes Sociales
 
