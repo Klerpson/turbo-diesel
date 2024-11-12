@@ -29,7 +29,7 @@ Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo 
 ### Nuestro Compromiso Contigo en Turbo Diésel de Colombia GD es este
 
 * • **Diagnóstico Honesto**: Si no está dañado, no lo cambiamos
-* • **Servicio 24/7**: Porque las emergencias no tienen horario
+* • **Servicio 5/8**: Agenda tu cita en horarios de oficina
 * • **Garantía Real**: 12 meses o 50,000 km, lo que ocurra primero
 * • **Repuestos Originales**: Trabajamos con las mejores marcas
 
