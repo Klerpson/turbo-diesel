@@ -83,8 +83,22 @@ alt="Turbo alimentador reparado"
   
 </section>
 
-{% include faqs.html title="Todo lo que necesitas saber antes de reparar tu turbo" %}
-
+<section class="faqs wrapper">
+  <h2>Todo lo que necesitas saber antes de reparar tu turbo</h2>
+  <div class="faqs-lista">
+    {% for faq in page.faqs %}
+    <div class="faq-item">
+      <h3 class="faq-pregunta">
+        <span class="faq-numero">{{ forloop.index }}</span>
+        {{ faq.pregunta }}
+      </h3>
+      <div class="faq-respuesta">
+        <p>{{ faq.respuesta }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
 <section class="wrapper cta_servicios">
   <img src="{{'img/turbo-diesel-reparar.avif' | relative_url }}" title="Turbo reparado" alt="Foto de un turbo alimentador reparado" loading="lazy">
   <h3>Evita un reemplazo costoso. Resucita tu turbo hoy con una buena reparación</h3>
