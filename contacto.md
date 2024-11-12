@@ -9,7 +9,7 @@ alt: Imagen de logo de Turbo Diésel de Colombia GD
 ---
 ## Tu Turbo Está en Buenas Manos
 
-*¿Sabes qué es lo más gratificante de mi trabajo? El momento en que un cliente regresa al taller, me da un apretón de manos y dice "Daniel, el motor suena como nuevo".*
+*¿Sabes qué es lo más gratificante de mi trabajo? El momento en que un cliente regresa al taller, me da un apretón de manos y dice "Cristobal, el motor suena como nuevo".*
 
 ![Imagen de Taller](/api/placeholder/800/400)
 
