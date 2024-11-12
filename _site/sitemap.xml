@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -33,7 +33,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -55,7 +55,7 @@
     
       <url>
         <loc>http://localhost:4000/blog/guias</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -74,7 +74,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -150,7 +150,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -169,7 +169,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -242,7 +242,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -271,12 +271,23 @@
     
   
     
+    
+  
+  
+  
+    
       <url>
-        <loc>http://localhost:4000/reconstruccion-turbos</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <loc>http://localhost:4000/servicios/diagnostico</loc>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/turbo-diagnosticado.avif</image:loc>
+            <image:title>Diagnóstico Turbo - Detectamos el Origen del Gruñido</image:title>
+            <image:caption>Diagnóstico de turbo alimentador</image:caption>
+          </image:image>
         
         
         
@@ -285,11 +296,17 @@
   
     
       <url>
-        <loc>http://localhost:4000/reparacion</loc>
-        <lastmod>2024-11-07T12:08:05-05:00</lastmod>
+        <loc>http://localhost:4000/servicios/mantenimiento</loc>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/mantenimiento-turbo-diesel-colombia.avif</image:loc>
+            <image:title>Mantenimiento de Turbo Diesel - Mantén el Rugido Vivo</image:title>
+            <image:caption>Scaneo de un motor al que se la hace un mantenimiento turbo para mejorar el cuidado del motor diesel</image:caption>
+          </image:image>
         
         
         
@@ -297,6 +314,41 @@
     
   
     
+      <url>
+        <loc>http://localhost:4000/servicios/reconstruccion-turbos</loc>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/reconstruccion-turbo.avif</image:loc>
+            <image:title>Reconstrucción de Turbos - Resurrección de Sopladores</image:title>
+            <image:caption>Diagnóstico de turbo alimentador</image:caption>
+          </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/servicios/reparacion</loc>
+        <lastmod>2024-11-12T08:17:55-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+          <image:image>
+            <image:loc>http://localhost:4000/img/reparacion-turbo-diesel.avif</image:loc>
+            <image:title>Reparación de Turbo - Resucitamos Bestias Diesel</image:title>
+            <image:caption>Turbo alimentador reparado para un motor diésel</image:caption>
+          </image:image>
+        
+        
+        
+      </url>
     
   
   
