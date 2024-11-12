@@ -30,7 +30,7 @@ Desde ese día, nos prometimos algo: **ningún conductor con problemas de turbo 
 
 * • **Diagnóstico Honesto**: Si no está dañado, no lo cambiamos
 * • **Servicio 5/8**: Agenda tu cita en horarios de oficina
-* • **Garantía Real**: 12 meses o 50,000 km, lo que ocurra primero
+* • **Garantía Real**: 3 meses por fallas verificadas en el laboratorio
 * • **Repuestos Originales**: Trabajamos con las mejores marcas
 
 ## Estamos a Una Llamada de Distancia
