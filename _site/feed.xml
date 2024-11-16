@@ -5,9 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Nov 2024 10:59:22 -0500</pubDate>
-    <lastBuildDate>Sat, 16 Nov 2024 10:59:22 -0500</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 12:38:59 -0500</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 12:38:59 -0500</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Turbos en motores diésel: ¿Qué son? ¿Cómo funcionan?</title>
+        <description>Guía definitiva de aceites para tu bestia turbo. Elegir el aceite correcto es como elegir la sangre adecuada para un dragón: vital para escupir fuego.</description>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/guias/que-son-turbos-de-motores-diesel</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guias/que-son-turbos-de-motores-diesel</guid>
+        
+        
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>Aceites para Turbo Diésel - Sangre de Dragón para tu Motor</title>
