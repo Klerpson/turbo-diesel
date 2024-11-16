@@ -43,6 +43,6 @@
 
 .post img{
   display: block;
-  margin-inline: auto;
   margin-bottom: 1em;
+  box-shadow: var(--shadow);
 }

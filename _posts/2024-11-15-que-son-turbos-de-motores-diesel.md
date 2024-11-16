@@ -31,6 +31,8 @@ El turbo es crucial porque los motores diésel, por naturaleza, funcionan mejor 
 3. **Reducción de emisiones**: Una combustión más completa significa que el motor expulsa menos emisiones contaminantes, un punto vital en estos tiempos.
 4. **Mejor respuesta del motor**: El turbo ayuda a que el motor reaccione más rápido al acelerar.
 
+![Beneficios del turbo en un motor]({{'img/blog/beneficios-turbo.avif' | relative_url }} "Beneficios y contras de instalar un turbo en el motor"){:loading="lazy"}
+
 -----
 
 ## ¿Cómo funciona un turbo en un motor diésel?
