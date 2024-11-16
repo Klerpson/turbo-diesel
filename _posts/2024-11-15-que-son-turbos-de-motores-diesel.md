@@ -2,8 +2,8 @@
 layout: post
 title: "Turbos en motores diésel: ¿Qué son? ¿Cómo funcionan?"
 description: "Guía definitiva de aceites para tu bestia turbo. Elegir el aceite correcto es como elegir la sangre adecuada para un dragón: vital para escupir fuego."
-hero: img/blog/aceite-turbo-diesel.avif
-alt: Foto de aceite turbo diésel para proteger la máquina
+hero: img/blog/turbo-motor-diesel.avif
+alt: Foto de turbo instalado en un motor diésel
 h1: "¿Qué es un turbo en un motor diésel?"
 intro: Te dijeron que le pusieras un turbo a tu motor. Pero, ¿qué es eso?. O mejor, ¿será que daña el motor? ¿Y si el motor es de gasolina? Mejor dicho. Te explicamos más aquí sobre el turbo en los motores y máquinas industriales.
 autor: Cristobal
