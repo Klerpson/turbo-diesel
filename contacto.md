@@ -75,7 +75,7 @@ Llámanos inmediatamente al **{{site.telefono}}**. Podemos evitar un daño mayor
 
 ![Equipo de Trabajo]({{'img/equipo-turbo-diesel-de-colombia.avif' | relative_url}} "Equipo de trabajo de turbo diésel de Colombia en Bogotá"){:loading="lazy" decoding="async" width="780" height="442"}
 
-*De izquierda a derecha: Juan (20 años de experiencia), Pedro (Especialista en Common Rail), María (Diagnóstico Computarizado), Carlos (Reparación de Turbos)*
+*De izquierda a derecha: Onofre (24 años de experiencia); Culma (10 Años de experiencia - Desmontaje, Diagnostico y reparación); Alexander ( 6 años de experiencia - Diagnóstico desmontaje y montaje de turbo); Ruth (20 años de experiencia en el servicio al cliente - Asesoría en repuestos) y  Cristóbal (25 Años de experiencia - Fundador de Turbo Diesel de Colombia GD, Diagnostico computarizado, desmontaje reparación asesoría técnica).*
 
 ### ¿Sabías Que...?
 
