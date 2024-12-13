@@ -105,3 +105,7 @@
 .faq-pregunta.active::after {
   transform: rotate(45deg);
 }
+
+.pagina img{
+  height: auto;
+}

@@ -11,7 +11,7 @@ alt: Imagen de logo de Turbo Diésel de Colombia GD
 
 *¿Sabes qué es lo más gratificante de mi trabajo? El momento en que un cliente regresa al taller, me da un apretón de manos y dice "Cristobal, el motor suena como nuevo".*
 
-![Imagen de Taller](/api/placeholder/800/400)
+![Imagen de laboratorio turbo diesel]({{'img/taller-turbo-diesel-bogota.avif' | relative_url}} "Taller Turbo Diésel de Colombia GD"){:loading="lazy" decoding="async" width="780" height="442"}
 
 ## La Historia que Cambió Nuestro Laboratorio de Turbos
 
@@ -73,7 +73,7 @@ Llámanos inmediatamente al **{{site.telefono}}**. Podemos evitar un daño mayor
 
 ## Nuestro Equipo Te Está Esperando
 
-![Equipo de Trabajo](/api/placeholder/800/400)
+![Equipo de Trabajo]({{'img/equipo-turbo-diesel-de-colombia.avif' | relative_url}} "Equipo de trabajo de turbo diésel de Colombia en Bogotá"){:loading="lazy" decoding="async" width="780" height="442"}
 
 *De izquierda a derecha: Juan (20 años de experiencia), Pedro (Especialista en Common Rail), María (Diagnóstico Computarizado), Carlos (Reparación de Turbos)*
 
