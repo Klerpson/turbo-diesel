@@ -11,7 +11,7 @@ category: guias
 ---
 ## La Verdad sobre los Aceites para Turbo Diésel: Lo que Nadie te Cuenta
 
-¿Sabes qué? El otro día estaba en [nuestro laboratorio de turbos]({{'quienes-somos'|relative_url}} "Laboratorio de Turbos") cuando llegó Juan, un viejo amigo, con su Chevrolet Dmax 2019. El turbo había reventado y, al revisarlo, encontré el culpable: **aceite inadecuado**. Me recordó por qué es tan importante compartir este conocimiento contigo. Y no, no es solo otro artículo más sobre aceites - es la diferencia entre un motor que dura 500,000 km y uno que no llega ni a los 100,000.
+El otro día estaba en [nuestro laboratorio de turbos]({{'quienes-somos'|relative_url}} "Laboratorio de Turbos") cuando llegó Juan, un viejo amigo, con su Chevrolet Dmax 2019. El turbo había reventado y, al revisarlo, encontré el culpable: **aceite inadecuado**. Me recordó por qué es tan importante compartir este conocimiento contigo. Y no, no es solo otro artículo más sobre aceites - es la diferencia entre un motor que dura 500,000 km y uno que no llega ni a los 100,000.
 
 > 💡 **Dato clave**: El 78% de las fallas en turbos diésel están relacionadas con una mala lubricación, y el 45% de estas ocurren en los primeros 50,000 km por usar el aceite equivocado.
 
