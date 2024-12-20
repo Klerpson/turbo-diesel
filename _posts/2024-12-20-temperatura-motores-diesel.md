@@ -2,7 +2,7 @@
 layout: post
 title: "Temperatura en motores turbo diésel: Entre el hielo y el infierno"
 description: "Tu turbo opera a temperaturas infernales. ¿Sabes cómo el calor extremo está afectando tu inversión? Aprende a proteger tu motor antes de que sea tarde."
-hero: img/blog/temperatura-turbo-diesel.avif
+hero: img/blog/temperatura-turbo.avif
 alt: Sensor de temperatura en motor turbo diésel
 h1: "Temperatura en turbo diésel: El equilibrio entre la vida y la muerte"
 intro: "800°C. A esa temperatura opera tu turbo. Es como tener un pequeño volcán bajo el capó. Te explicamos cómo evitar que erupcione."
