@@ -6,7 +6,7 @@ hero: img/blog/temperatura-turbo.avif
 alt: Sensor de temperatura en motor turbo diésel
 h1: "Temperatura en turbo diésel: El equilibrio entre la vida y la muerte"
 intro: "800°C. A esa temperatura opera tu turbo. Es como tener un pequeño volcán bajo el capó. Te explicamos cómo evitar que erupcione."
-autor: Ricardo Mendoza
+autor: Diana - Turbo Diésel de Colombia GD
 category: guias
 ---
 "*El motor empezó a perder potencia subiendo La Línea. Pensé que era normal por la altura. Seguí acelerando... hasta que escuché un ruido que me heló la sangre.*"
