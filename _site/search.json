@@ -1,6 +1,46 @@
 [
   
     {
+      "title"    : "Geometría variable vs fija en turbos: La batalla del siglo XXI",
+      "url"      : "/blog/guias/geometria-variable-vs-fija-en-turbos"
+    } ,
+  
+    {
+      "title"    : "Reconstrucción vs reemplazo de turbos: La decisión de los millones",
+      "url"      : "/blog/guias/reconstruccion-vs-reemplazo-de-turbos"
+    } ,
+  
+    {
+      "title"    : "La relación mortal entre tu sistema de inyección y el turbo",
+      "url"      : "/blog/guias/relacion-entre-sistema-de-inyeccion-y-turbo"
+    } ,
+  
+    {
+      "title"    : "Señales de falla en tu turbo: No las ignores o perderás millones",
+      "url"      : "/blog/guias/detectar-fallas-en-turbos"
+    } ,
+  
+    {
+      "title"    : "3 mitos sobre máquinas petroleras que están matando tu turbo",
+      "url"      : "/blog/guias/mitos-maquinas-petroleras-con-turbo"
+    } ,
+  
+    {
+      "title"    : "¿De Bogotá a Santa Marta? Tu turbo decide si llegas o no",
+      "url"      : "/blog/guias/turbos-en-diferentes-altitudes"
+    } ,
+  
+    {
+      "title"    : "El precio de un turbo varado: Lo que cuesta aprender por las malas",
+      "url"      : "/blog/guias/costo-de-turbos-varados"
+    } ,
+  
+    {
+      "title"    : "Consumo excesivo de combustible en tu camión: La historia que tu turbo te quiere contar",
+      "url"      : "/blog/guias/consumo-combustible-con-turbos"
+    } ,
+  
+    {
       "title"    : "Temperatura en motores turbo diésel: Entre el hielo y el infierno",
       "url"      : "/blog/guias/temperatura-motores-diesel"
     } ,
