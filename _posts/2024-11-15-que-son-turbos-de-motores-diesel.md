@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Turbos en motores diésel: ¿Qué son? ¿Cómo funcionan?"
-description: "Guía definitiva de aceites para tu bestia turbo. Elegir el aceite correcto es como elegir la sangre adecuada para un dragón: vital para escupir fuego."
+title: "¿Qué es un Turbo Diesel? Guía Completa de Funcionamiento"
+description: "Aprende todo sobre turbos diesel: funcionamiento, beneficios, mantenimiento y cuidados esenciales. Guía completa por expertos en turbos."
 hero: img/blog/turbo-motor-diesel.avif
 alt: Foto de turbo instalado en un motor diésel
 h1: "¿Qué es un turbo en un motor diésel?"
