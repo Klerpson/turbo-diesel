@@ -2,7 +2,7 @@
 layout: post
 title: "3 mitos sobre máquinas petroleras que están matando tu turbo"
 description: "¿Por qué la última reparación de tu turbo solo duró 200 horas? Esta empresa petrolera descubrió la verdad y ahorró $120 millones en tres meses."
-hero: img/blog/maquinaria-petrolera-turbo.avif
+hero: img/blog/maquinaria-petrolera-turbo-mantenimiento.avif
 alt: Equipo de perforación petrolera en operación con detalle de escape de motor
 h1: "La verdad sobre los turbos en maquinaria petrolera que nadie te ha contado"
 intro: "2 AM en un campo petrolero del Meta. Una máquina de $2.000 millones paralizada. El diagnóstico? Un turbo mal mantenido que pudo haberse salvado."
