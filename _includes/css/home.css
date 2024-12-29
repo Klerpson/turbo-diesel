@@ -1,7 +1,7 @@
 .beneficios{
   display: grid;
   place-items: center;
-  padding-bottom: 4em;
+  margin-bottom: 4em;
 
   ul{
     width: 100%;

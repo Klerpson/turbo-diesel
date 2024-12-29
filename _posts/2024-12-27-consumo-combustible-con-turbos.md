@@ -38,10 +38,24 @@ Lo que Fernando no sabía es que su turbo estaba operando a solo 60% de su efici
 
 En nuestro [laboratorio especializado]({{ 'servicios/diagnostico' | relative_url }}) analizamos los datos de Fernando:
 
-- Consumo mensual anterior: 2,800 galones
-- Costo por galón: $10,000
-- Gasto mensual: $28 millones
-- Pérdida por ineficiencia: $9.8 millones
+Analiza esta tabla comparativa detallada basada en los datos del caso de Fernando, incluyendo los costos, consumos y ahorros. Además, tiene indicadores adicionales para darte más contexto:
+
+| Indicador | Antes de Optimización | Después de Optimización | Diferencia/Mejora |
+|-----------|----------------------|------------------------|-------------------|
+| Consumo Mensual (Galones) | 2,800 | 1,820 | -980 (-35%) |
+| Costo por Galón | $10,000 | $10,000 | Sin cambio |
+| Gasto Mensual | $28,000,000 | $18,200,000 | -$9,800,000 |
+| Gasto Trimestral | $84,000,000 | $54,600,000 | -$29,400,000 |
+| Eficiencia del Turbo | 60% | ~100% | +40% |
+| Potencia del Motor | Base | +25% | +25% |
+| Retorno de Inversión | - | 45 días | - |
+| Consumo Diario Aproximado* | 93.3 galones | 60.7 galones | -32.6 galones |
+| Ahorro Anual Proyectado** | - | $117,600,000 | - |
+
+*Calculado asumiendo 30 días de operación mensual*
+***Proyectado multiplicando el ahorro mensual por 12 meses***
+
+Esta tabla muestra claramente *el impacto significativo que tuvo la optimización del turbo* en la operación de Fernando, con una **reducción del 35% en el consumo de combustible y un ahorro mensual de casi 10 millones de pesos**, manteniendo la misma ruta y cargas similares.
 
 [Nuestra guía sobre temperatura]({% post_url 2024-12-20-temperatura-motores-diesel %}) explica cómo el calor afecta al turbo. Pero el impacto en el consumo de combustible es aún más dramático.
 
