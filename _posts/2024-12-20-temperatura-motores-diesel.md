@@ -215,7 +215,7 @@ La tecnología actual nos permite monitorear las temperaturas en tiempo real. Es
 
 Ya no esperamos a que el problema ocurra. Con análisis de datos y monitoreo constante, podemos predecir cuándo un turbo podría empezar a fallar. Es como tener una bola de cristal que nos muestra el futuro de tu motor.
 
-## El protocolo de los profesionales
+## El protocolo de los profesionales para controlar la temperatura del turbo
 
 En Turbo Diésel de Colombia GD, hemos desarrollado un protocolo específico para el control de temperatura. No es solo sobre números y mediciones; es sobre entender cómo opera tu vehículo en el mundo real.
 
@@ -223,7 +223,7 @@ En Turbo Diésel de Colombia GD, hemos desarrollado un protocolo específico par
 
 "*La mejor herramienta de diagnóstico sigue siendo la experiencia*", afirma Pedro, técnico senior con 25 años en el oficio. "*Los equipos nos dan datos, pero es la experiencia la que nos dice qué significan esos datos en la vida real*."
 
-## Tu plan de acción
+## Tu plan de acción: cuida la temperatura del turbo
 
 No esperes a escuchar ese ruido extraño o ver humo sospechoso. El momento de actuar es ahora.
 
@@ -243,11 +243,11 @@ Desarrollaremos un plan específico para tu operación, considerando:
 - Condiciones de operación
 - Historial de mantenimiento
 
-## El compromiso con tu éxito
+## Turbo Diésel de Colombia GD cuida el turbo de tu motor
 
 En [Turbo Diésel de Colombia GD](/) entendemos que tu turbo es más que una pieza mecánica; es parte vital de tu negocio. Por eso, nuestro compromiso va más allá de la simple reparación.
 
-[Contáctanos hoy]({{ 'contacto' | relative_url }} "Contacto") y descubre cómo podemos ayudarte a mantener tu turbo operando a la temperatura perfecta. Tu éxito es nuestro éxito.
+[Contáctanos hoy]({{ 'contacto' | relative_url }} "Contacto") y te ayudaremos a mantener tu **turbo operando a la temperatura perfecta**. Tu éxito es nuestro éxito.
 
 ¿Tienes preguntas sobre la temperatura de tu turbo? Déjalas en los comentarios o [escríbenos directamente]({{ 'contacto' | relative_url }} "Contacto"). Nuestro equipo técnico está listo para ayudarte.
 

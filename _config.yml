@@ -50,5 +50,3 @@ redirect_from:
 
 whitelist:
   - jekyll-redirect-from
-
-future: true
