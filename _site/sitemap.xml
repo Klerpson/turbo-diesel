@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -33,7 +33,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -55,7 +55,7 @@
     
       <url>
         <loc>http://localhost:4000/blog/guias</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -74,7 +74,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -150,7 +150,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -169,7 +169,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -242,7 +242,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -278,7 +278,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/diagnostico</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -297,7 +297,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/limpieza-inyectores</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -316,7 +316,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/mantenimiento-flotas</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -335,7 +335,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/mantenimiento</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -354,7 +354,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/maquinaria-y-flotas-petroleras</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -373,7 +373,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/reconstruccion-turbos</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -392,7 +392,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/reparacion</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -411,7 +411,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/soporte-para-mecanicos</loc>
-        <lastmod>2024-12-29T08:13:30-05:00</lastmod>
+        <lastmod>2025-01-06T20:44:43-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -428,96 +428,6 @@
     
   
   
-  
-    <url>
-      <loc>http://localhost:4000/blog/guias/geometria-variable-vs-fija-en-turbos</loc>
-      <lastmod>2025-01-25T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/geometria-turbo.avif</image:loc>
-          <image:title>Geometría variable vs fija en turbos: La batalla del siglo XXI</image:title>
-          <image:caption>Comparación entre turbo de geometría fija y variable</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/guias/reconstruccion-vs-reemplazo-de-turbos</loc>
-      <lastmod>2025-01-22T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/reconstruir-turbo.avif</image:loc>
-          <image:title>Reconstrucción vs reemplazo de turbos: La decisión de los millones</image:title>
-          <image:caption>Turbo en proceso de reconstrucción profesional</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/guias/relacion-entre-sistema-de-inyeccion-y-turbo</loc>
-      <lastmod>2025-01-19T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/inyeccion-turbo.avif</image:loc>
-          <image:title>La relación mortal entre tu sistema de inyección y el turbo</image:title>
-          <image:caption>Sistema de inyección diesel junto a un turbo dañado</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/guias/detectar-fallas-en-turbos</loc>
-      <lastmod>2025-01-16T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/senales-falla-turbo.avif</image:loc>
-          <image:title>Señales de falla en tu turbo: No las ignores o perderás millones</image:title>
-          <image:caption>Mecánico examinando turbo con señales de desgaste</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/guias/mitos-maquinas-petroleras-con-turbo</loc>
-      <lastmod>2025-01-13T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/maquinaria-petrolera-turbo-mantenimiento.avif</image:loc>
-          <image:title>3 mitos sobre máquinas petroleras que están matando tu turbo</image:title>
-          <image:caption>Equipo de perforación petrolera en operación con detalle de escape de motor</image:caption>
-        </image:image>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/guias/turbos-en-diferentes-altitudes</loc>
-      <lastmod>2025-01-10T00:00:00-05:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-      
-      
-        <image:image>
-          <image:loc>http://localhost:4000/img/blog/turbo-altitud.avif</image:loc>
-          <image:title>¿De Bogotá a Santa Marta? Tu turbo decide si llegas o no</image:title>
-          <image:caption>Camión subiendo montaña con medidor de altitud</image:caption>
-        </image:image>
-      
-    </url>
   
     <url>
       <loc>http://localhost:4000/blog/guias/costo-de-turbos-varados</loc>

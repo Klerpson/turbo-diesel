@@ -5,93 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Dec 2024 08:13:30 -0500</pubDate>
-    <lastBuildDate>Sun, 29 Dec 2024 08:13:30 -0500</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2025 20:44:43 -0500</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2025 20:44:43 -0500</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
-    
-      <item>
-        <title>Geometría variable vs fija en turbos: La batalla del siglo XXI</title>
-        <description>De Santa Marta a Bogotá sin perder potencia. Este transportador descubrió el secreto que los fabricantes no quieren que sepas sobre los turbos de geometría variable.</description>
-        <pubDate>Sat, 25 Jan 2025 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guias/geometria-variable-vs-fija-en-turbos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guias/geometria-variable-vs-fija-en-turbos</guid>
-        
-        
-        
-        
-        <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>Reconstrucción vs reemplazo de turbos: La decisión de los millones</title>
-        <description>¿Reconstruir o reemplazar? La decisión equivocada le costó $120 millones a esta empresa en un año. No cometas el mismo error.</description>
-        <pubDate>Wed, 22 Jan 2025 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guias/reconstruccion-vs-reemplazo-de-turbos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guias/reconstruccion-vs-reemplazo-de-turbos</guid>
-        
-        
-        
-        
-        <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>La relación mortal entre tu sistema de inyección y el turbo</title>
-        <description>Tu sistema de inyección y tu turbo: Una sociedad que puede hacerte millonario o dejarte en la ruina. Este transportador aprendió la diferencia de la peor manera.</description>
-        <pubDate>Sun, 19 Jan 2025 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guias/relacion-entre-sistema-de-inyeccion-y-turbo</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guias/relacion-entre-sistema-de-inyeccion-y-turbo</guid>
-        
-        
-        
-        
-        <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>Señales de falla en tu turbo: No las ignores o perderás millones</title>
-        <description>Tu turbo grita por ayuda. ¿Sabes interpretar sus señales? Descubre cómo este transportador evitó perder $85 millones por aprender a escuchar su turbo.</description>
-        <pubDate>Thu, 16 Jan 2025 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guias/detectar-fallas-en-turbos</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guias/detectar-fallas-en-turbos</guid>
-        
-        
-        
-        
-        <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>3 mitos sobre máquinas petroleras que están matando tu turbo</title>
-        <description>¿Por qué la última reparación de tu turbo solo duró 200 horas? Esta empresa petrolera descubrió la verdad y ahorró $120 millones en tres meses.</description>
-        <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guias/mitos-maquinas-petroleras-con-turbo</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guias/mitos-maquinas-petroleras-con-turbo</guid>
-        
-        
-        
-        
-        <category>guias</category>
-        
-      </item>
-    
-      <item>
-        <title>¿De Bogotá a Santa Marta? Tu turbo decide si llegas o no</title>
-        <description>La altura mata turbos. Descubre cómo un transportador perdió $80 millones por no entender cómo afecta la altitud a su motor turbo diésel.</description>
-        <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/guias/turbos-en-diferentes-altitudes</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/guias/turbos-en-diferentes-altitudes</guid>
-        
-        
-        
-        
-        <category>guias</category>
-        
-      </item>
     
       <item>
         <title>El precio de un turbo varado: Lo que cuesta aprender por las malas</title>
@@ -141,6 +57,34 @@
         <pubDate>Thu, 12 Dec 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/guias/arranque-correcto-motor-turbo-diesel</link>
         <guid isPermaLink="true">http://localhost:4000/blog/guias/arranque-correcto-motor-turbo-diesel</guid>
+        
+        
+        
+        
+        <category>guias</category>
+        
+      </item>
+    
+      <item>
+        <title>¿Qué es un Turbo Diesel? Guía Completa de Funcionamiento</title>
+        <description>Aprende todo sobre turbos diesel: funcionamiento, beneficios, mantenimiento y cuidados esenciales. Guía completa por expertos en turbos.</description>
+        <pubDate>Fri, 15 Nov 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/guias/que-son-turbos-de-motores-diesel</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guias/que-son-turbos-de-motores-diesel</guid>
+        
+        
+        
+        
+        <category>guias</category>
+        
+      </item>
+    
+      <item>
+        <title>Aceites para Turbo Diésel - Sangre de Dragón para tu Motor</title>
+        <description>Guía definitiva de aceites para tu bestia turbo. Elegir el aceite correcto es como elegir la sangre adecuada para un dragón: vital para escupir fuego.</description>
+        <pubDate>Thu, 24 Oct 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/guias/aceites-turbo-diesel</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guias/aceites-turbo-diesel</guid>
         
         
         
