@@ -5,8 +5,8 @@ description: "¿Sabías que el 70% de las fallas en turbos ocurren por mal manej
 hero: img/blog/revoluciones-turbo.avif
 alt: Tacómetro de motor diésel mostrando zona óptima de revoluciones
 h1: "Revoluciones en turbo diésel: El balance entre potencia y vida útil"
-intro: "32 años reparando turbos me han enseñado que no es la edad lo que los mata: es el mal manejo de las revoluciones. Te explico cómo hacerlo bien."
-autor: Felipe Ramírez
+intro: "24 años reparando turbos me han enseñado que no es la edad lo que los mata: es el mal manejo de las revoluciones. Te explico cómo hacerlo bien."
+autor: Onofre (24 años de experiencia)
 category: guias
 ---
 
