@@ -42,7 +42,8 @@
 .servicios{
   background-color: var(--gris1);
   box-shadow: 0 0 0 100vmax var(--gris1);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
   padding-bottom: 4em;
 
   .boton{margin: 2em auto;}

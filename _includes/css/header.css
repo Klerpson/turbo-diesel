@@ -13,7 +13,8 @@
 
   img{
     width: min(100%, 620px);
-    object-position: left bottom;
+    -o-object-position: left bottom;
+       object-position: left bottom;
   }
 }
 
