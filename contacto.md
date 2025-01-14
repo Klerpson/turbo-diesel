@@ -6,8 +6,6 @@ h1: "Contacta con nuestros asesores profesionales. Escríbenos"
 intro: Escríbenos y recibe orientación sobre nuestros servicios para en turbo de tu máquina
 hero: img/logotipo.avif
 alt: Imagen de logo de Turbo Diésel de Colombia GD
-redirect_from:
-  - /contact/
 ---
 ## Tu Turbo Está en Buenas Manos
 
