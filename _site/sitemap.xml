@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -33,7 +33,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -55,7 +55,7 @@
     
       <url>
         <loc>http://localhost:4000/blog/guias</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -74,7 +74,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -150,7 +150,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -169,7 +169,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -242,7 +242,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -271,6 +271,149 @@
     
   
     
+      <url>
+        <loc>http://localhost:4000/diagnostico</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/blog/mantenimiento-101</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/mantenimiento</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/servicios/reconstruccion</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/reconstruccion-turbos</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/reparacion</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/contact/</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/nosotros/</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/conocenos-mas/</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/servicios/</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/tag/services/</loc>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        
+        
+        
+        
+      </url>
+    
+  
+    
     
   
   
@@ -278,7 +421,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/diagnostico</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -297,7 +440,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/limpieza-inyectores</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -316,7 +459,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/mantenimiento-flotas</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -335,7 +478,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/mantenimiento</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -354,7 +497,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/maquinaria-y-flotas-petroleras</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -373,7 +516,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/reconstruccion-turbos</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -392,7 +535,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/reparacion</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -411,7 +554,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios/soporte-para-mecanicos</loc>
-        <lastmod>2025-01-07T06:27:04-05:00</lastmod>
+        <lastmod>2025-01-14T08:23:58-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -428,6 +571,36 @@
     
   
   
+  
+    <url>
+      <loc>http://localhost:4000/blog/guias/mitos-maquinas-petroleras-con-turbo</loc>
+      <lastmod>2025-01-13T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/maquinaria-petrolera-turbo-mantenimiento.avif</image:loc>
+          <image:title>3 mitos sobre máquinas petroleras que están matando tu turbo</image:title>
+          <image:caption>Equipo de perforación petrolera en operación con detalle de escape de motor</image:caption>
+        </image:image>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/guias/turbos-en-diferentes-altitudes</loc>
+      <lastmod>2025-01-10T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/turbo-altitud.avif</image:loc>
+          <image:title>¿De Bogotá a Santa Marta? Tu turbo decide si llegas o no</image:title>
+          <image:caption>Camión subiendo montaña con medidor de altitud</image:caption>
+        </image:image>
+      
+    </url>
   
     <url>
       <loc>http://localhost:4000/blog/guias/costo-de-turbos-varados</loc>

@@ -14,6 +14,9 @@ fotos:
   - testimonio de una cliente de turbo diesel en Google maps: img/testimonio-diana-gonzalez-servicio-turbo-diesel.avif
   - testimonio por mantenimiento hecho en turbo diesel gd en Google maps: img/testimonio-jen-mds-servicio-turbo-diesel.avif
   - testimonio de un cliente de turbo diesel GD en Google maps: img/testimonio-arley-barrantes-servicio-turbo-diesel.avif
+redirect_from:
+  - /nosotros/
+  - /conocenos-mas/
 ---
 ## Conoce el mejor laboratorio de Colombia sobre turbos de motor diesel y de gasolina
 

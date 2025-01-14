@@ -5,9 +5,37 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jan 2025 06:27:04 -0500</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2025 06:27:04 -0500</lastBuildDate>
+    <pubDate>Tue, 14 Jan 2025 08:23:58 -0500</pubDate>
+    <lastBuildDate>Tue, 14 Jan 2025 08:23:58 -0500</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>3 mitos sobre máquinas petroleras que están matando tu turbo</title>
+        <description>¿Por qué la última reparación de tu turbo solo duró 200 horas? Esta empresa petrolera descubrió la verdad y ahorró $120 millones en tres meses.</description>
+        <pubDate>Mon, 13 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/guias/mitos-maquinas-petroleras-con-turbo</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guias/mitos-maquinas-petroleras-con-turbo</guid>
+        
+        
+        
+        
+        <category>guias</category>
+        
+      </item>
+    
+      <item>
+        <title>¿De Bogotá a Santa Marta? Tu turbo decide si llegas o no</title>
+        <description>La altura mata turbos. Descubre cómo un transportador perdió $80 millones por no entender cómo afecta la altitud a su motor turbo diésel.</description>
+        <pubDate>Fri, 10 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/guias/turbos-en-diferentes-altitudes</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/guias/turbos-en-diferentes-altitudes</guid>
+        
+        
+        
+        
+        <category>guias</category>
+        
+      </item>
     
       <item>
         <title>El precio de un turbo varado: Lo que cuesta aprender por las malas</title>
