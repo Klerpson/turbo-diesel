@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: compress
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,6 +8,7 @@ layout: null
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   {% for page in site.pages %}
+  {% if page.path and page.path != '' %}
     {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' or page.noindex %}
     {% else %}
       <url>
@@ -48,10 +49,12 @@ layout: null
           {% endfor %}
         {% endif %}
       </url>
+    {% endif %}
     {% endif %}
   {% endfor %}
   
   {% for page in site.servicios %}
+  {% if page.path and page.path != '' %}
     {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' or page.noindex %}
     {% else %}
       <url>
@@ -93,9 +96,11 @@ layout: null
         {% endif %}
       </url>
     {% endif %}
+    {% endif %}
   {% endfor %}
   
   {% for post in site.posts %}
+  {% if page.path and page.path != '' %}
     <url>
       <loc>{{ post.url | absolute_url }}</loc>
       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
@@ -116,9 +121,11 @@ layout: null
         </image:image>
       {% endif %}
     </url>
+    {% endif %}
   {% endfor %}
   
   {% for page in site.without-plugin %}
+  {% if page.path and page.path != '' %}
     <url>
       <loc>{{ page.url | absolute_url }}</loc>
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
@@ -139,5 +146,6 @@ layout: null
         </image:image>
       {% endif %}
     </url>
+    {% endif %}
   {% endfor %}
 </urlset>
