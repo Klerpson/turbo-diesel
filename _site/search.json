@@ -1,6 +1,16 @@
 [
   
     {
+      "title"    : "La relación mortal entre tu sistema de inyección y el turbo",
+      "url"      : "/blog/guias/relacion-entre-sistema-de-inyeccion-y-turbo"
+    } ,
+  
+    {
+      "title"    : "Señales de falla en tu turbo: No las ignores o perderás millones",
+      "url"      : "/blog/guias/detectar-fallas-en-turbos"
+    } ,
+  
+    {
       "title"    : "3 mitos sobre máquinas petroleras que están matando tu turbo",
       "url"      : "/blog/guias/mitos-maquinas-petroleras-con-turbo"
     } ,
@@ -174,7 +184,7 @@
     {
     
     "title"    : "Servicios de Mantenimiento y Reparación de Turbos | Colombia GD",
-    "url"      : "/servicios"
+    "url"      : "/servicios/"
     
     } ,
 
