@@ -9,7 +9,6 @@ intro: "24 años reparando turbos me han enseñado que no es la edad lo que los 
 autor: Onofre (24 años de experiencia)
 category: guias
 ---
-
 "*Llevo 20 años manejando tractomula. Siempre la mantengo en altas revoluciones para que tenga fuerza en las subidas*", me dijo orgulloso Don Alberto mientras examinábamos su turbo destruido en nuestro laboratorio.
 
 Ese orgullo le costó 14 millones de pesos.
