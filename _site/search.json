@@ -1,6 +1,21 @@
 [
   
     {
+      "title"    : "Revoluciones en motores turbo: El arte del control perfecto",
+      "url"      : "/blog/guias/revoluciones-turbo"
+    } ,
+  
+    {
+      "title"    : "Geometría variable vs fija en turbos: La batalla del siglo XXI",
+      "url"      : "/blog/guias/geometria-variable-vs-fija-en-turbos"
+    } ,
+  
+    {
+      "title"    : "Reconstrucción vs reemplazo de turbos: La decisión de los millones",
+      "url"      : "/blog/guias/reconstruccion-vs-reemplazo-de-turbos"
+    } ,
+  
+    {
       "title"    : "La relación mortal entre tu sistema de inyección y el turbo",
       "url"      : "/blog/guias/relacion-entre-sistema-de-inyeccion-y-turbo"
     } ,
