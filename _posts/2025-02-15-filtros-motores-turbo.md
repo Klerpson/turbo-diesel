@@ -141,4 +141,4 @@ En [Turbo Diésel de Colombia GD](/) no solo cambiamos filtros; educamos a nuest
 
 ¿Cuándo fue la última vez que cambiaste tus filtros? [Contáctanos]({{ 'contacto' | relative_url }} "Contacto") y permite que nuestros especialistas evalúen el estado de tu sistema de filtración.
 
->*"El mejor seguro para tu turbo no es una garantía extendida; son tres filtros de calidad haciendo su trabajo."* - Luis Ramírez, Director Técnico.
+>*"El mejor seguro para tu turbo no es una garantía extendida; son tres filtros de calidad haciendo su trabajo."* - Cristobal, Director.
